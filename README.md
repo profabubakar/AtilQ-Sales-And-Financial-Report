@@ -10,7 +10,7 @@ Using Excel's Pivot Tables, Power Query and Power Pivot, I analyzed sales and fi
 4. Profit & Loss by fiscal year
 
 ## Business Problem:
-To remain competitive and drive growth, the company needs to refine its customer discount strategies and explore new markets for expansion. Stakeholders have observed that the current discount strategies may not be optimizing sales and that there are untapped opportunities in certain international markets. How can we analyze customer purchasing data to identify the most effective discount strategies? How can these insights support consumer negotiations and highlight promising countries for expansion? Additionally, how can we ensure that these strategies are aligned with the company’s financial goals to strengthen the organization’s financial planning and outlook?
+To remain competitive and drive growth, the company needs to refine its customer discount strategies and identify potential business expansion opportunities in promising countries. Stakeholders have observed that the current discount strategies may not be optimizing sales and that there are untapped opportunities in certain international markets. How can we analyze customer purchasing data to identify the most effective discount strategies? How can these insights support consumer negotiations and highlight promising countries for expansion? Additionally, how can we ensure that these strategies are aligned with the company’s financial goals to strengthen the organization’s financial planning and outlook?
 
 ## Methodology
 1. Use Power Query in Excel to extract, clean and transform datasets 
