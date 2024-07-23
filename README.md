@@ -8,6 +8,32 @@ Using Excel's Pivot Tables, Power Query and Power Pivot, I analyzed sales and fi
 2. Market performance compared to sales targets
 3. Profit & Loss by market
 4. Profit & Loss by fiscal year
+
+## Business Problem:
+To remain competitive and drive growth, the company needs to refine its customer discount strategies and explore new markets for expansion. Stakeholders have observed that the current discount strategies may not be optimizing sales and that there are untapped opportunities in certain international markets. How can we analyze customer purchasing data to identify the most effective discount strategies? How can these insights support consumer negotiations and highlight promising countries for expansion? Additionally, how can we ensure that these strategies are aligned with the company’s financial goals to strengthen the organization’s financial planning and outlook?
+
+## Methodology
+1. Use Power Query in Excel to extract, clean and transform datasets 
+2. Utilize Power Pivot to create data models from the cleaned datasets and established relationships between data tables.
+3. Use Pivot Tables to generate detailed and comprehensive reports for stakeholders to view and make decision.
+
+## Skills
+1. Technical Skills:
+   - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+   - [x]	Skills to generate a date table using Power Query.
+   - [x]	Ability to derive fiscal months and quarters.
+   - [x]	Establishing data model relationships with Power Pivot.
+   - [x]	Proficiency in incorporating supplementary data into an existing data model.
+   - [x]	Utilizing DAX to create calculated columns.
+
+2. Soft Skills
+   - [x]	Refined understanding of Sales & Finance Reports
+   - [x]	Designing user-centric reports with empathy in mind.
+   - [x]	Optimization of report generation through meticulous fine-tuning.
+   - [x]	Developing a systematic approach to devising a report building plan.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
 ## Sales Report :
 
 
