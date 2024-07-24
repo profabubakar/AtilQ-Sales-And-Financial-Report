@@ -36,7 +36,7 @@ To remain competitive and drive growth, the company needs to refine its customer
 ## Final Reports:
 **1**. Sales Report:
 
-  -  [customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)
+  -  [customer performance report](https://github.com/profabubakar/AtilQ-Sales-And-Financial-Report/blob/main/Customer%20Performance%20Report.pdf)
 
 - [market performance and sales targets](https://github.com/profabubakar/AtilQ-Sales-And-Financial-Report/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
