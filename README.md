@@ -46,7 +46,7 @@ To remain competitive and drive growth, the company needs to refine its customer
 
 **2**. Finance Report :
 
-- Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+- Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/profabubakar/AtilQ-Sales-And-Financial-Report/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
  - Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
