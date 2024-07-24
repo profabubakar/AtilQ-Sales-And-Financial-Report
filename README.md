@@ -48,7 +48,7 @@ To remain competitive and drive growth, the company needs to refine its customer
 
 - Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/profabubakar/AtilQ-Sales-And-Financial-Report/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/profabubakar/AtilQ-Sales-And-Financial-Report/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
- - Create Profit and Loss (P&L) reports by _[Markets](https://github.com/profabubakar/AtilQ-Sales-And-Financial-Report/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+ - Create Profit and Loss (P&L) reports by [Markets](https://github.com/profabubakar/AtilQ-Sales-And-Financial-Report/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
  **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
